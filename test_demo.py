@@ -6,6 +6,6 @@ import pytest
 def test_add(a,b,c):
     assert c==a+b
 def test_mul_practice():
-    assert 2 * 3 == 7
+    assert 2 * 3 == 6
 def test_conflict():
-    return "main version"
+    return "resolved version"
