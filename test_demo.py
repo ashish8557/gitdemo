@@ -8,3 +8,5 @@ def test_add(a,b,c):
 def test_mul_practice():
     assert 2 * 3 == 7   # intentionally wrong to cause a conflict
 
+def test_mul_practice():
+    assert 2 * 3 == 6
